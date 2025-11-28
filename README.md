@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/ransa17/ransa17/master/assets/shambhu284Banner.png">
 
 <h2> Hey there! I'm Shambhu Kumar.</h2>
 
